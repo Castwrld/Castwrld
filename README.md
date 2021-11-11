@@ -8,6 +8,12 @@
 	<a href="https://myanimelist.net/profile/Castwrld">
 	    <img src="https://i.ibb.co/Tk4pHnW/Screenshot-2021-11-10-043450.png" />
 	</a>
+	<p>
+	Credits -
+	<a href="https://github.com/WaifuShork">
+	 @WaifuShork
+</a>
+		
 <h2> 🖥️ Specs </br></h2> 
 <p>
 - Intel i7-9700KF CPU
