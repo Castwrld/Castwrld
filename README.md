@@ -18,9 +18,9 @@
 <p>
 - Intel i7-9700KF CPU
 <p>
-- Geforce GTX 1660 GPU
+- Geforce GTX 3070 GPU
 <p>
-- Corsair Vengeance 16GB (2x8) Ram
+- Corsair Vengeance 32GB (4x8) Ram
 <p>
 - Gigabyte Z390 UD Motherboard
 <p>
